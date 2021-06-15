@@ -1,0 +1,7 @@
+C:\Users\Uer\source\repos\CalculadoraNotacaoPosicional\CalculadoraNotacaoPosicional\bin\Debug\CalculadoraNotacaoPosicional.exe.config
+C:\Users\Uer\source\repos\CalculadoraNotacaoPosicional\CalculadoraNotacaoPosicional\bin\Debug\CalculadoraNotacaoPosicional.exe
+C:\Users\Uer\source\repos\CalculadoraNotacaoPosicional\CalculadoraNotacaoPosicional\bin\Debug\CalculadoraNotacaoPosicional.pdb
+C:\Users\Uer\source\repos\CalculadoraNotacaoPosicional\CalculadoraNotacaoPosicional\obj\Debug\CalculadoraNotacaoPosicional.csprojAssemblyReference.cache
+C:\Users\Uer\source\repos\CalculadoraNotacaoPosicional\CalculadoraNotacaoPosicional\obj\Debug\CalculadoraNotacaoPosicional.csproj.CoreCompileInputs.cache
+C:\Users\Uer\source\repos\CalculadoraNotacaoPosicional\CalculadoraNotacaoPosicional\obj\Debug\CalculadoraNotacaoPosicional.exe
+C:\Users\Uer\source\repos\CalculadoraNotacaoPosicional\CalculadoraNotacaoPosicional\obj\Debug\CalculadoraNotacaoPosicional.pdb
